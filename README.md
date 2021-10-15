@@ -4,7 +4,7 @@
 https://saitejakalepu.github.io/Food-Delivery-App-FrontEnd/
 
 ### Homepage
-<img src="food-app-screenshot" alt="home"/>
+<img src="git-screenshots/food-app-screenshot" alt="home"/>
 
 ### Responsive UI Design
 <img src="git-screenshots/responsive.gif" alt="gif file"/>
