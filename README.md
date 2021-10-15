@@ -1,5 +1,7 @@
 # Food Delivery Application - Front End
 
+<img src="responsive-ipad.gif" alt="gif file"/><br/>
+
 ### visit : 
 https://saitejakalepu.github.io/Food-Delivery-App-FrontEnd/
 
