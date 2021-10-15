@@ -3,9 +3,9 @@
 ### visit : 
 https://saitejakalepu.github.io/Food-Delivery-App-FrontEnd/
 
-## Available Scripts
+## 
 
-In the project directory, you can run:
+<img src="resposive.gif"/>
 
 ### `npm start`
 
