@@ -3,7 +3,7 @@
 ### visit : 
 https://saitejakalepu.github.io/Food-Delivery-App-FrontEnd/
 
-![hippo]("git-screenshots/responsive.gif")
+![hippo](git-screenshots/responsive.gif)
 
 ### Homepage
 <img src="git-screenshots/food-app-screenshot.JPG" alt="home"/>
