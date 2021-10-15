@@ -4,11 +4,3 @@
   flex-wrap: wrap;
   align-items: flex-start;
 }
-
-@media only screen and (max-width: 1024px) {
-  .filters {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-}

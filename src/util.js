@@ -1,5 +1,3 @@
-
-import {React , useEffect} from 'react';
 import validator from 'validator';
 import passwordValidator  from 'password-validator';
 

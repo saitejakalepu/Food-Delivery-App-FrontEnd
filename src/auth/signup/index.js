@@ -19,7 +19,7 @@ export const Signup = () => {
 
     let isEmailvalid= validateEmail(email);
     let isPasswordvalid = validatePassword(password);
-    let comparePassword = password == confirmPassword;
+    let comparePassword = password === confirmPassword;
 
                             
     const validateData=()=>{
@@ -57,7 +57,7 @@ export const Signup = () => {
 
                 <section>
                 <input type="checkbox" onClick={validateData} defaultChecked={isChecked}/>
-                <span>&nbsp;I agree to <a>Terms of Service</a> , <a> Privacy Policy</a>&nbsp;and&nbsp;<a>Content <br/>Policies.</a></span>
+                <span>&nbsp;I agree to <label href="#">Terms of Service</label> , <label> Privacy Policy</label>&nbsp;and&nbsp;<label>Content <br/>Policies.</label></span>
                 </section>
             </section>
             <button className={button_class} disabled={isbuttonDisabled} onClick={()=>console.log("cliked")}>Create account</button>

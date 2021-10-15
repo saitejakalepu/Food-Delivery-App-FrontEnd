@@ -142,7 +142,7 @@
   color: rgb(105, 105, 105);
 }
 
-.signup-input section span a {
+.signup-input section span label {
   text-decoration: none;
   cursor: pointer;
   font-weight: 500;

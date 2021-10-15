@@ -91,7 +91,7 @@ const Foods = () => {
 
   useEffect(() => {
 
-    if (performance.navigation.type == performance.navigation.TYPE_RELOAD) {
+    if (performance.navigation.type === performance.navigation.TYPE_RELOAD) {
       if(window.innerWidth < 1196)
       setdisplaySlides(Math.floor(window.innerWidth/300));
     } 
@@ -102,7 +102,7 @@ const Foods = () => {
     setdisplaySlides(4);
   }
     window.addEventListener('resize', handleResize)
-  })
+  },[displaySlides])
 
   return (
     <div className="delivery-collections">

@@ -80,7 +80,7 @@ const Brands = () => {
 
 
   useEffect(() => {
-    if (performance.navigation.type == performance.navigation.TYPE_RELOAD) {
+    if (performance.navigation.type === performance.navigation.TYPE_RELOAD) {
       if(window.innerWidth < 996)
       setdisplaySlides(Math.floor(window.innerWidth/170));
     } 
@@ -93,7 +93,7 @@ const Brands = () => {
     
   }
     window.addEventListener('resize', handleResize)
-  })
+  },[displaySlides])
 
 
 

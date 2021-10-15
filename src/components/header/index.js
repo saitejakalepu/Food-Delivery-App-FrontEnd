@@ -1,7 +1,6 @@
 import {React,useState} from "react";
 import "./header.css";
 import icon from '../../assets/images/icon.png'
-import hamburger from '../../assets/images/hamburger.png'
 import Searchbar from '../searchbar'
 import { useDispatch } from "react-redux";
 import { setLogin, setSignup } from "../../redux/action";
@@ -31,21 +30,20 @@ const Header = () => {
   }
 
   return (
-    <div className="header-container">
+    <div className="header-container max-width" >
     <div className="header">
         <div className="header-logo">
         <label>Hello Foddie</label>
-        <img src={icon}/>
+        <img src={icon} alt="logo"/>
         </div>
         <div className="header-options">
           <div className="menu-icon"  onClick={handleClick}>
             {click ? <i class="fi fi-sr-cross" style={{fontSize:"24px"}}></i> : <i class="fi fi-rr-menu-burger" style={{fontSize:"28px"}}></i>}
           </div>
           <div className={click ? 'nav-menu active' : 'nav-menu'}>
-          <a onClick={handleAddrestaurant} >Add restaurant</a>
-          <a onClick={handleLogin}>Log in</a>
-          <a onClick={handleSignup}>Sign up</a>
-          
+          <label onClick={handleAddrestaurant} >Add restaurant</label>
+          <label onClick={handleLogin}>Log in</label>
+          <label onClick={handleSignup}>Sign up</label>
           </div>
         </div>
     </div>

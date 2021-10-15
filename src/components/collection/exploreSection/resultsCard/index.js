@@ -13,7 +13,7 @@ const ResultsCard = () => {
             <button onClick={()=>dispatch(setQuery(""))}>Back to Home</button> 
         </div>
         <div className="image-wrapper">
-            <img src="no search results found" src="https://b.zmtcdn.com/web/assets/f0b1bdc4cdae3c9e54964d791e83be401614320771.jpeg"/>
+            <img alt="no search results found" src="https://b.zmtcdn.com/web/assets/f0b1bdc4cdae3c9e54964d791e83be401614320771.jpeg"/>
         </div>
         </div>
         

@@ -1,6 +1,5 @@
 .header-container {
-  width: 75%;
-  margin: 20px auto;
+  margin-top: 2% !important;
 }
 
 .header {
@@ -43,7 +42,7 @@
   justify-content: space-evenly;
 }
 
-.nav-menu a {
+.nav-menu label {
   font-size: 1.2rem;
   line-height: 1.5;
   margin-left: 24px;
@@ -96,7 +95,7 @@
     justify-content: flex-start;
   }
 
-  .nav-menu.active a {
+  .nav-menu.active label {
     margin-top: 20px;
     padding: 10px;
   }
