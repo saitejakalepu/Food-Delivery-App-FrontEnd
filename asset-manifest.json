@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Food-Delivery-App-FrontEnd/static/css/main.2b810f70.chunk.css",
+    "main.js": "/Food-Delivery-App-FrontEnd/static/js/main.5ae5dad1.chunk.js",
+    "main.js.map": "/Food-Delivery-App-FrontEnd/static/js/main.5ae5dad1.chunk.js.map",
+    "runtime-main.js": "/Food-Delivery-App-FrontEnd/static/js/runtime-main.8a66436e.js",
+    "runtime-main.js.map": "/Food-Delivery-App-FrontEnd/static/js/runtime-main.8a66436e.js.map",
+    "static/js/2.8f87a23b.chunk.js": "/Food-Delivery-App-FrontEnd/static/js/2.8f87a23b.chunk.js",
+    "static/js/2.8f87a23b.chunk.js.map": "/Food-Delivery-App-FrontEnd/static/js/2.8f87a23b.chunk.js.map",
+    "static/js/3.2a3475c3.chunk.js": "/Food-Delivery-App-FrontEnd/static/js/3.2a3475c3.chunk.js",
+    "static/js/3.2a3475c3.chunk.js.map": "/Food-Delivery-App-FrontEnd/static/js/3.2a3475c3.chunk.js.map",
+    "index.html": "/Food-Delivery-App-FrontEnd/index.html",
+    "static/css/main.2b810f70.chunk.css.map": "/Food-Delivery-App-FrontEnd/static/css/main.2b810f70.chunk.css.map",
+    "static/js/2.8f87a23b.chunk.js.LICENSE.txt": "/Food-Delivery-App-FrontEnd/static/js/2.8f87a23b.chunk.js.LICENSE.txt",
+    "static/media/email.14d46245.svg": "/Food-Delivery-App-FrontEnd/static/media/email.14d46245.svg",
+    "static/media/google.add9f857.svg": "/Food-Delivery-App-FrontEnd/static/media/google.add9f857.svg",
+    "static/media/icon.6cfc89e7.png": "/Food-Delivery-App-FrontEnd/static/media/icon.6cfc89e7.png",
+    "static/media/mobile.0ddcbd4b.svg": "/Food-Delivery-App-FrontEnd/static/media/mobile.0ddcbd4b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a66436e.js",
+    "static/js/2.8f87a23b.chunk.js",
+    "static/css/main.2b810f70.chunk.css",
+    "static/js/main.5ae5dad1.chunk.js"
+  ]
+}
