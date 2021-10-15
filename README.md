@@ -3,9 +3,15 @@
 ### visit : 
 https://saitejakalepu.github.io/Food-Delivery-App-FrontEnd/
 
-## 
+### Homepage
+<img src="food-app-screenshot" alt="home"/>
 
+### Responsive UI Design
 <img src="git-screenshots/responsive.gif" alt="gif file"/>
+<img src="git-screenshots/responsive-ipad.gif" alt="gif file"/>
+
+### filter items
+<img src="git-screenshots/filter.gif" alt="gif file"/>
 
 ### `npm start`
 
