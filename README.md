@@ -8,9 +8,13 @@ https://saitejakalepu.github.io/Food-Delivery-App-FrontEnd/
 
 ### Responsive UI Design
 <img src="responsive-app.gif" alt="gif file" height="50%" width="100%"/><br/>
-<img src="responsive-ipad.gif" alt="gif file" height="50%" width="50%"/><br/>
+
 ### Filter items
 <img src="filter.gif" alt="filter gif file" height="50%" width="50%"/>
+
+### App
+<img src="responsive-ipad.gif" alt="gif file" height="50%" width="50%"/><br/>
+
 
 ### Authentication tabs
 
