@@ -7,12 +7,9 @@ https://saitejakalepu.github.io/Food-Delivery-App-FrontEnd/
 <img src="git-screenshots/food-app-screenshot.JPG" alt="home"/>
 
 ### Responsive UI Design
-<img src="git-screenshots/responsive.gif" alt="gif file" height="50%" width="70%"/><br/>
+<img src="git-screenshots/responsive.gif" alt="gif file" height="50%" width="100%"/><br/>
 
 ### 
-<img src="git-screenshots/responsive-ipad.gif" alt="gif file" height="50%" width="50%"/>
-
-### filter items
-<img src="git-screenshots/filter.gif" alt="filter gif file" height="50%" width="25%"/>
+<img src="git-screenshots/responsive-ipad.gif" alt="gif file" height="50%" width="50%"/><img src="git-screenshots/filter.gif" alt="filter gif file" height="50%" width="50%"/>
 
 
