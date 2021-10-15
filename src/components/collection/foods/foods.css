@@ -1,0 +1,50 @@
+.delivery-collections {
+  background: var(--secondary-bg);
+  width: 100%;
+  padding: 10px 0px;
+}
+
+.delivery-item-cover {
+  height: 190px;
+  width: 260px;
+  background-color: var(--primary-bg);
+  box-shadow: var(--collection-shadow);
+  border-radius: 8px;
+}
+
+.delivery-item-image {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  border-radius: 8px;
+}
+
+.delivery-item-title {
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 500;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  margin-top: 6px;
+}
+
+@media only screen and (max-width: 1196px) {
+  .slider {
+    width: 90%;
+    margin: 0px auto;
+  }
+}
+
+@media only screen and (max-width: 896px) {
+  .slider {
+    width: 80%;
+    margin: 0px auto;
+  }
+}
+
+@media only screen and (max-width: 583px) {
+  .slider {
+    width: 70%;
+    margin: 0px auto;
+  }
+}

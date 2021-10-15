@@ -1,23 +1,22 @@
-import logo from './logo.svg';
+import {React, useState} from "react";
 import './App.css';
+import Header from './components/header'
+import Collections from './components/collection'
+import Login from "./auth/login";
+import {useSelector} from 'react-redux';
+import Signup from "./auth/signup";
 
 function App() {
+
+   const login = useSelector(state => state.showLogin);
+   const signup = useSelector(state => state.showSignup)
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {login &&  <Login/>}
+      {signup && <Signup/>}
+     <Header/>
+     <Collections/>
     </div>
   );
 }

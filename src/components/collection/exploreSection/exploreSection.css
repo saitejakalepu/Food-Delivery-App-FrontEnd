@@ -1,0 +1,23 @@
+.explore-section {
+  margin-top: 16px;
+}
+
+.explore-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.explore-results {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 1024px) {
+  .explore-grid {
+    justify-content: center;
+  }
+}
