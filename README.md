@@ -5,7 +5,7 @@ https://saitejakalepu.github.io/Food-Delivery-App-FrontEnd/
 
 ## 
 
-<img src="resposive.gif"/>
+<img src="git-screenshots/responsive.gif" alt="gif file"/>
 
 ### `npm start`
 
