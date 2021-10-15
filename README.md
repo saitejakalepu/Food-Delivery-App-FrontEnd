@@ -14,5 +14,5 @@ https://saitejakalepu.github.io/Food-Delivery-App-FrontEnd/
 
 ### Authentication tabs
 
-<img src="git-screenshots/login" />
-<img src="git-screenshots/signin" />
+<img src="git-screenshots/login.JPG" />
+<img src="git-screenshots/signin.JPG" />
